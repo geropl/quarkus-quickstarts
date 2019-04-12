@@ -28,3 +28,6 @@ graph-output.dot
 
 settings.xml
 quarkus.log
+
+# Ignore projects bin folders and contents
+/*/bin/**
